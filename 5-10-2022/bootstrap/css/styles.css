@@ -1,0 +1,65 @@
+.flex2{
+    display:flex;
+    
+    
+}
+
+
+.header-style{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+
+.icon{
+    color: white;
+    margin-left: 218px;
+    margin-top: 13px;
+}
+
+.p-element{
+    color: white;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.icon2{
+   
+    color: white;
+    margin-right: 203px;
+    padding-right:10px;
+}
+
+.h1-content{
+    text-align:center;
+    margin-top: 53px;
+    margin-left: 87px;
+}
+
+.button-content{
+    margin-left: 3px;
+    background-color: black;
+    float: left;
+}
+
+
+  .ght{
+      background-color: #D0C9C0;
+      height: 396px;
+      padding-left: 118px;
+    
+  }
+
+
+.fth{
+    background-color: #73777B;
+    color: white;
+    height: 160px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    
+}
