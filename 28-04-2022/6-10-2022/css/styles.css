@@ -1,0 +1,219 @@
+.backgrounde-co-l-or {
+    background-color: black;
+    height: 308px;
+}
+
+.list-co-lor {
+    color: white!important;
+}
+
+.para-align-ment {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.co-lor {
+    color: grey;
+}
+
+.button-siz {
+    text-align: center;
+    margin-top: 29px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-co-lor {
+    background-color: #1363DF;
+    color: white;
+    width: 50px;
+    height: 44px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.align-row {
+    margin-top: 52px;
+}
+
+.icon-bor-der {
+    font-size: 33px;
+}
+
+.bor-der-top {
+    margin-top: 63px;
+    margin-bottom: 32px;
+}
+
+.ca-r-d {
+    padding: 10px;
+}
+
+.cvy {
+    margin-bottom: 16px;
+}
+
+.st-ar {
+    color: #FAC213;
+}
+
+.custom-er {
+    margin-top: 33px;
+}
+
+.tex-ture {
+    background-color: #DAEAF1;
+    padding: 32px 0px;
+}
+
+.numeric {
+    font-size: 30px;
+}
+
+.i-con-name {
+    font-size: 44px;
+}
+
+.sp-an-align {
+    margin-top: 30px;
+}
+
+.flex3 {
+    display: flex;
+    margin-left: 28px;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.list-view {
+    list-style: none;
+}
+
+.free {
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: -9px;
+}
+
+.start-ed {
+    margin-right: 30px;
+}
+
+.featu-re {
+    margin-top: 20px;
+}
+
+.button-sty-le {
+    color: blue;
+    border-color: blue;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.bg-color {
+    background-color: white;
+}
+
+.button-sty-le1 {
+    color: white;
+    border-color: blue;
+    width: 100%;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.para-co-lor {
+    color: darkgrey;
+    margin-left: 59px;
+}
+
+.customer-tes {
+    text-align: center;
+    margin-top: 78px;
+}
+
+.work {
+    color: darkgrey;
+}
+
+.cbn {
+    margin-left: -15px;
+}
+
+.nav-flex {
+    justify-content: end;
+}
+
+.win-dow {
+    background-color: #1363DF;
+    color: white;
+    width: 40px;
+    height: 38px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.spa-ing-p {
+    margin-left: 20px;
+}
+
+.fon-t-siz-e {
+    font-size: 29px;
+}
+
+.view-div {
+    border-style: groove;
+    width: 533px;
+    margin-top: 30px !important;
+    padding: 11px;
+    margin: 0px auto;
+}
+
+.icon-co-lorA {
+    background-color: #1363DF;
+    color: white;
+    width: 50px;
+    height: 44px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.fo-nt-size {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 56px;
+}
+
+.tex-ur-e {
+    background-color: #DAEAF1;
+    padding: 17px 0px;
+    margin-top: 48px;
+}
+
+.form-style-ing {
+    width: 347px;
+    height: 45px;
+    margin-top: 9px;
+}
+
+.form-style-ingA {
+    width: 345px;
+    height: 180px;
+    margin-top: 9px;
+}
+
+.form-style-ingB {
+    width: 347px;
+    height: 45px;
+    background-color: blue;
+    color: white;
+    margin-top: 9px;
+}
+
+.kol {
+    color: white;
+    background-color: black;
+    height: 40px;
+}
