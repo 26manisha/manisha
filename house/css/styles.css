@@ -1,0 +1,337 @@
+.ma_icons {
+    list-style: none;
+}
+
+.ma_envelope {
+    color: #E14D2A;
+}
+
+.ma_envelope2 {
+    color: #E14D2A;
+    font-size: 23px;
+}
+
+.ma_color {
+    background-color: black;
+    color: white;
+    width: 370px;
+}
+
+.ma_color10 {
+    background-color: black;
+    color: white;
+}
+
+.ma_color4 {
+    background-color: black;
+    color: white;
+}
+
+.ma_white {
+    color: white;
+}
+
+.ma_long {
+    width: 47%;
+    color: white;
+    font-size: 10px;
+    margin-left: -24px;
+}
+
+.ma_map {
+    font-size: 11px;
+    margin-left: -24px;
+}
+
+.ma_add {
+    height: 47px;
+    background-color: #E14D2A;
+    color: white;
+    font-size: 14px;
+    width: 96px;
+}
+
+.ma_ravelry2 {
+    font-size: 25px;
+}
+
+.ma_ravelry {
+    padding-top: 8%;
+    margin-left: 1%;
+}
+
+.ma_add2 {
+    margin-left: 111px;
+    height: 47px;
+    background-color: #E14D2A;
+    color: white;
+    border: 1px solid #E14D2A;
+    font-size: 14px;
+    width: 96px;
+}
+
+.ma_strong {
+    margin-left: 34px;
+}
+
+.ma_card_con2 {
+    margin-left: -53px;
+}
+
+.ma_card_con {
+    margin-left: -53px;
+}
+
+.ma_add6 {
+    height: 47px;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    width: 193px;
+    border-style: none;
+    margin-right: 52px;
+}
+
+.ma_conrtol {
+    font-size: 9px;
+}
+
+.ma_image2 {
+    position: absolute;
+    margin-left: -114px;
+    left: -12;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    border: 3px solid white;
+}
+
+.ma_bed {
+    margin-left: -29px;
+    font-size: 13px;
+    list-style: none;
+}
+
+.ma_phase {
+    color: darkgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ma_marker2 {
+    color: #E14D2A;
+}
+
+.ma_marker {
+    font-size: 30px;
+    color: #E14D2A;
+}
+
+.ma_image {
+    margin-left: -24px;
+    height: 181px;
+    width: 356px;
+}
+
+.ma_bath {
+    margin-top: -14px;
+    padding: 7px;
+    color: #6B728E;
+}
+
+.ma_center {
+    margin-left: -4px;
+}
+
+.ma_circle5 {
+    background-color: white;
+    color: black;
+    border-color: black;
+    height: 26px;
+    width: 28px;
+    border-radius: 50%;
+    border: 1px solid #EEEEEE;
+}
+
+.ma_dotted {
+    padding: 5px;
+}
+
+.ma_circle2 {
+    margin-left: 9px;
+}
+
+.ma_looking {
+    height: 142px;
+    background-color: #E14D2A;
+    color: white;
+    padding: 41px;
+    z-index: 2;
+    position: absolute;
+    width: 80% !important;
+    left: 10%;
+    margin-top: -4%;
+}
+
+.ma_para {
+    font-size: 12px;
+}
+
+.ma_back-ground {
+    position: relative;
+    height: 331px;
+    width: 152%;
+    background-color: black;
+    z-index: 1;
+}
+
+.ma_style {
+    margin-left: -30px;
+    list-style: none;
+}
+
+.ma_product {
+    padding: 3px;
+}
+
+.ma_about {
+    font-size: 10px;
+    padding-top: 7%;
+    margin-left: -9%;
+}
+
+.ma_about2 {
+    font-size: 10px;
+    padding-top: 7%;
+}
+
+.ma_about3 {
+    font-size: 10px;
+    padding-top: 7%;
+}
+
+.ma_about4 {
+    font-size: 10px;
+    padding-top: 9%;
+    margin-left: 10%;
+}
+
+.ma_footer {
+    font-size: 12px;
+    margin-left: -62px;
+}
+
+.ma_circle {
+    height: 26px;
+    width: 28px;
+    border-radius: 50%;
+    background-color: #E14D2A;
+    color: white;
+}
+
+.ma_heart2 {
+    height: 22px;
+    font-size: 17px;
+    width: 22px;
+    background: #EEEEEE;
+}
+
+.ma_content {
+    margin-left: -12px;
+}
+
+.ma_card_body {
+    padding-left: 0px !important;
+}
+
+.ma_ico {
+    padding: 4px;
+}
+
+.ma_submit {
+    height: 60px;
+    background-color: #E14D2A;
+    color: white;
+    border: 1px solid #E14D2A;
+    font-size: 14px;
+    width: 61px;
+}
+
+.ma_row {
+    padding: 34px;
+}
+
+.ma_accept {
+    font-size: 12px;
+}
+
+.ma_silent {
+    padding-top: 7%;
+}
+
+.ma_accept2 {
+    font-size: 12px;
+}
+
+.ma-back-ground {
+    background-color: #6B728E;
+    height: 45px;
+}
+
+.ma_submit_form {
+    height: 38px;
+    background-color: #E14D2A;
+    color: white;
+    font-size: 14px;
+    width: 61px;
+}
+
+.ma_span {
+    color: #404258;
+}
+
+.ma_space {
+    padding: 6px;
+}
+
+.ma_heart {
+    font-size: 20px;
+}
+
+.ma_user {
+    font-size: 23px;
+    color: white;
+}
+
+.ma_calculator {
+    font-size: 29px;
+    color: #E14D2A;
+}
+
+.ma_list {
+    font-size: 30px;
+}
+
+.ma_sorting {
+    height: 42px;
+    width: 164px;
+    font-size: 14px;
+    background-color: white;
+    border: 2px solid darkgray;
+}
+
+.ma_search {
+    width: 57%;
+    margin-left: 46px;
+}
+
+.ma_searchA {
+    width: 75%;
+    height: 84px;
+    margin-top: -52px;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #E14D2A !important;
+    border-color: #E14D2A !important;
+}
