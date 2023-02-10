@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-top{
+    background-color: #035397;
+
+ height:80px;
+   padding-left:200px;
+}
+
+h1{
+    font-size: 48px;
+    color: white;
+    float:left;
+    margin-left:30px;
+    width:50px;
+    margin-top: 8px;
+}
+
+.nput {
+    margin-left: 140px;
+    margin-top: 25px;
+    margin-bottom: 90px;
+    background-color: #6BCB77;
+    color: white;
+    height: 30px;
+    width: 74px;
+    border-color: green;
+    border: none;
+}
+    .para {
+        margin-right: 170px;
+        margin-top:40px;
+        float: right;
+        width:459px;
+        color: white;
+    }
+
+    h2{
+        margin-left: 229px;
+    }
+
+    .pa{
+        color:black;
+        margin-left: 231px;
+    }
+
+    .gft{
+        
+       width: 478px;
+       margin-left:152px;
+    }
+
+    .nvpu{
+        height: 28px;
+        width: 81px;
+        border-color: white;
+        margin-left:197px;
+    }
+
+    .prt{
+        margin-left:49px;  
+        color:#8D8DAA;
+        text-align=center;
+    }
+
+    .ght{
+
+        border-radius: 8px;
+        background-color: white;
+        height:467px;
+        width: 510px;
+        margin-left:154px;
+    }
+    
+    .wth{
+        margin-left: 151px;
+
+    }
+
+    .flex-container {
+        display: flex;
+        
+ }
+ .dft{
+    width: 478px;
+    margin-left:140px;
+ }
+ 
+ .jit{
+    margin-left: 100px;
+ }
+
+ .tyi{
+
+    border-radius: 8px;
+    background-color: white;
+    height:467px;
+    width: 503px;
+    margin-left:42px;
+ }
+
+ .pr{
+    margin-left:51px;  
+        color:#8D8DAA 
+ }
