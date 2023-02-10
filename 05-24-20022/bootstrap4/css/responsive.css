@@ -1,0 +1,50 @@
+@media only screen and (max-width:1024px) {
+    .kslo {
+        margin-left: 33px;
+    }
+    .mobile_no2:after {
+        margin-left: 0px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .wegh {
+        flex-direction: column-reverse;
+    }
+    .kslo {
+        margin-left: 268px;
+    }
+    .mobile_no3:after {
+        display: none;
+    }
+}
+
+
+}
+@media only screen and (max-width:425px) {
+    .bnm {
+        margin-top: 10px;
+    }
+    
+    .wegh {
+        flex-direction: column-reverse;
+    }
+}
+@media only screen and (max-width:375px) {
+    .bnm {
+        margin-top: 41px;
+    }
+}
+@media only screen and (max-width:320px) {
+    .banj {
+        margin-left: 82px
+    }
+    
+    .kslo {
+        margin-left: 127px;
+    }
+    
+    .bnm {
+        margin-top: 10px;
+    }
+}

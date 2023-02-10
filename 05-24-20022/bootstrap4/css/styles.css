@@ -1,0 +1,423 @@
+.background-images {
+    background-image: url('../images/electronic.jpg');
+    height: 477px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 493px;
+    top: -15px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.asd {
+    font-family: cursive;
+    color: #EC9B3B;
+    margin-left: 108px;
+}
+
+.sd {
+    color: white !important;
+}
+
+.asg {
+    color: white !important;
+    z-index: 3;
+    position: relative;
+    text-align: center;
+    margin-top: 84px;
+}
+
+.content {
+    color: white !important;
+    z-index: 3;
+    position: relative;
+    text-align: center;
+}
+
+.bnm {
+    z-index: 3;
+    position: relative;
+    margin-top: 61px;
+    color: #CC9C75 !important;
+}
+
+.xcv {
+    text-align: center;
+    margin-top: 33px;
+}
+
+.mr-auto {
+    margin-right: auto;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.ghj {
+    padding-left: 28px;
+    margin-bottom: 127px;
+}
+
+.mobile_no2 {
+    position: relative;
+}
+
+.mobile_no3 {
+    position: relative;
+}
+
+.mobile_no3:after {
+    content: " ";
+    height: 77px;
+    border-left: 1px solid grey;
+    position: absolute;
+    right: -100px;
+    text-align: center;
+    top: 158px;
+    padding-left: 107px;
+}
+
+.kol {
+    padding-left: 24px !important;
+    background-color: #F7D716;
+    color: #EC9B3B;
+    width: 100px !important;
+    height: 100px;
+    border-radius: 50%;
+    padding-top: 10px;
+    margin-left: 106px;
+}
+
+.mobile_no4 {
+    position: relative;
+}
+
+.mobile_no4:after {
+    content: " ";
+    height: 100px;
+    border-left: 1px solid grey;
+    position: absolute;
+    left: 160px;
+    top: 115px;
+    padding-left: 108px;
+}
+
+.zxc {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.hjk {
+    height: 165px;
+    width: 185px;
+    border-radius: 50%;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.hj {
+    height: 100px;
+    width: 100px;
+    margin-left: 140px;
+    filter: grayscale(77%);
+}
+
+.hjl {
+    height: 100px;
+    width: 100px;
+    margin-left: 140px;
+    filter: grayscale(77%);
+}
+
+.hjy {
+    height: 100px;
+    width: 100px;
+    margin-left: 140px;
+    filter: grayscale(77%);
+}
+
+.hjo {
+    height: 100px;
+    width: 100px;
+    margin-left: 140px;
+    filter: grayscale(77%);
+}
+
+.background-imageA {
+    background-image: url('../images/map.png');
+    height: 505px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.bty {
+    color: white;
+    text-align: center;
+    padding-top: 39px;
+}
+
+.qli {
+    color: white;
+    text-align: center;
+}
+
+.qml {
+    background-color: white;
+    color: grey;
+    width: 100%;
+    height: 50px;
+}
+
+.lpa {
+    background-color: white;
+    color: grey;
+    width: 378px;
+    height: 50px;
+}
+
+.qmy {
+    background-color: white;
+    color: grey;
+    width: 378px;
+    height: 50px;
+}
+
+.qi {
+    background-color: white;
+    color: grey;
+    width: 100%;
+    height: 165px;
+    margin-top: 10px;
+}
+
+.hxo {
+    color: white !important;
+}
+
+.button1 {
+    background-color: #F7D716;
+    color: #CDC2AE;
+    height: 53px;
+    width: 158px;
+}
+
+.tweet {
+    margin-left: 516px;
+    font-size: 37px;
+}
+
+.flex3 {
+    display: flex;
+    justify-content: center;
+}
+
+.hqw {
+    font-size: 67px;
+    color: #F7D716;
+}
+
+.cvy {
+    text-align: center;
+}
+
+.ttr {
+    padding-top: 32px;
+}
+
+.gghj {
+    padding-bottom: 39px;
+}
+
+.banj {
+    text-align: end;
+}
+
+.ahjy {
+    margin-left: 55px;
+    margin-bottom: 94px;
+}
+
+.uilp {
+    text-align: end;
+    margin-bottom: 78px;
+}
+
+.mbji {
+    border-radius: 50%;
+}
+
+.ghwer {
+    margin-bottom: 54px;
+}
+
+.xjiy {
+    border-radius: 50%;
+    margin-left: 95px;
+}
+
+.cvty {
+    padding-top: 31px;
+}
+
+.dfui {
+    margin-left: 106px;
+}
+
+.zxsd {
+    margin-left: 16px;
+}
+
+.sdiop {
+    margin-left: 18px;
+}
+
+.wergt {
+    color: grey;
+}
+
+.diqn {
+    margin-left: 127px;
+}
+
+.jabu {
+    margin-left: 16px;
+}
+
+.zmft {
+    margin-left: 18px;
+}
+
+.jsty {
+    margin-left: 106px;
+}
+
+.cvdh {
+    margin-left: 16px;
+}
+
+.sghuP {
+    margin-left: 18px;
+}
+
+.sglo {
+    padding-bottom: 52px;
+}
+
+.jkfu {
+    padding-top: 31px;
+}
+
+.dkenu {
+    font-size: 36px;
+}
+
+.qwmi {
+    margin-left: 16px;
+    font-size: 36px;
+}
+
+.mbui {
+    margin-left: 18px;
+    font-size: 36px;
+}
+
+.dkil {
+    background-color: #F7D716;
+    color: #CC9C75;
+    width: 146px;
+    height: 55px;
+}
+
+.chji {
+    padding-top: 35px;
+}
+
+.ghux {
+    padding-bottom: 25px;
+}
+
+.cmof {
+    padding-left: 107px;
+    border-radius: 50%;
+    margin-left: 90px;
+}
+
+.sloti {
+    border-radius: 50%;
+    margin-left: 76px;
+    margin-top: 45px;
+    text-align: center;
+}
+
+.ham-berger {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mobile-container {
+    max-width: 480px;
+    margin: auto;
+    background-color: #555;
+    height: 500px;
+    color: white;
+    border-radius: 10px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+.topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.kslo {
+    border-radius: 50%;
+    margin-right: 99px;
+}
+
+.icon {
+    font-size: 67px !important;
+    color: #F7D716;
+}
