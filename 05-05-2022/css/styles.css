@@ -1,0 +1,152 @@
+.background-image{
+    background-image: url('../images/travel.jpg');
+    height: 560px;
+    width:100%;
+    background-repeat: no-repeat;
+}
+.home_list{
+    display: flex;
+    color:white;
+    margin-left: 98px;
+}
+
+.home_list li{
+    list-style: none;
+    padding-left: 20px;
+    color:white;
+ }
+ .flex2{
+     display:flex;
+ }
+
+ .icons{
+     margin-right:30px;
+     justify-content: space-between;
+ }
+
+ .dfg{
+margin-right:10px;
+list-style: none;
+ }
+
+ .hr_content{
+     height:1px;
+     background-color: white;
+     margin-top:-9px;
+ }
+
+ .logo{
+    color: white;
+    margin-left: 241px;
+    margin-top: 12px;
+ }
+
+ .sdf{
+    justify-content: space-between;
+    margin-right:12px;
+    margin-right: 301px;
+ 
+ }
+
+ .kol{
+    list-style: none;
+ }
+
+ .kol li:hover{
+     background-color:coral;
+ }
+
+ .rit{
+     float:right;
+     list-style: none;
+ }
+
+ .asd{
+    margin-left: 52px;
+    margin-top: 2px;
+    display: flex;
+    float: left;
+ }
+
+ .dec{
+     margin-top:10px;
+ }
+
+
+ .home_list2{
+    display: flex;
+    color:red;
+  
+   
+}
+
+.home_list2 li{
+    list-style: none;
+    color:red;
+    margin-right:30px;
+}
+
+    .home_list3{
+        display: flex;
+        color:gray;
+    }
+
+    
+.home_list3 li{
+    list-style: none;
+    color:gray;
+    margin-right:30px;
+}
+
+.home_list4{
+    display: flex;
+    color:BLACK;
+}
+
+.home_list4 li{
+    list-style: none;
+    color:black;
+    margin-right:30px;
+}
+
+.home_list5{
+    display: flex;
+}
+
+.home_list5 li{
+    list-style: none;
+    
+}
+
+.background-imageA{
+    background-image: url('../images/beach.jpeg');
+    height:200px;
+    width:200px;
+}
+.background-imageB{
+    background-image: url('../images/getaways.jpg');
+    height:200px;
+    width:200px;
+}
+
+
+.background-imageD{
+    background-image: url('../images/track.jpg');
+    height:200px;
+    width:200px;
+}
+
+.background-imageE{
+    background-image: url('../images/natue.jpg');
+    height:400px;
+    width:300px
+}
+
+.background-imageM{
+    background-image: url('../images/europe.jpg');
+    height:200px;
+    width:200px;
+}
+.clear{
+    clear: both;
+}
