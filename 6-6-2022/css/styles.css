@@ -1,0 +1,318 @@
+.brg-color {
+    background-color: #3BACB6;
+    color: white;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.flex8 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex3 {
+    display: flex;
+}
+
+.flex5 {
+    display: flex;
+}
+
+.hr-plac-ing {
+    color: #3BACB6;
+    width: 109px;
+    left: 78px;
+    margin: 0px auto;
+    position: relative;
+    top: 0px !important;
+}
+
+.hr-plac-ing::before {
+    color: #3BACB6;
+    width: 109px;
+    left: 78px;
+    margin: 0px auto;
+    position: relative;
+    top: 0px !important;
+}
+
+.bg-co-lor-ing {
+    background-color: #F1EEE9;
+}
+
+.bg-c-olor {
+    background-color: white;
+}
+
+.d-i-v-palce {
+    margin-top: 61px;
+}
+
+.hr-place {
+    color: black;
+    position: relative;
+    margin: auto;
+    width: 100%;
+}
+
+hr:not([size]).hr-plac-ing {
+    height: 5px;
+}
+
+.fa-i-con {
+    margin-top: 3px;
+}
+
+.mar-gin-p {
+    margin-left: 6px;
+}
+
+.list-align {
+    list-style: none;
+}
+
+.space-range {
+    justify-content: center;
+}
+
+.even-space {
+    padding: 3px;
+    margin-left: 20px;
+}
+
+.mar-gin-evn {
+    margin-top: 2px;
+}
+
+.env-p {
+    margin-left: 8px;
+}
+
+.mar-mobile-gin {
+    margin-top: 4px;
+}
+
+.mob-ile-p {
+    margin-left: 9px;
+}
+
+.icon-align {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-siz {
+    font-size: 80px;
+}
+
+.p-size {
+    font-size: 52px;
+}
+
+.hig-light {
+    color: #3BACB6;
+}
+
+.icon-ev-en {
+    font-size: 22px;
+}
+
+.space-icon {
+    margin-left: 27px;
+    color: darkslategrey;
+}
+
+.font-co-lor a {
+    color: darkslategrey;
+    font-size: 13px;
+}
+
+.font-co a {
+    color: #3BACB6;
+    margin-top: 2px;
+}
+
+.font-co-i {
+    margin-top: 6px;
+    font-size: 18px;
+}
+
+.background-image {
+    background-image: url('../images/birds.webp');
+    height: 300px;
+    background-size: 100%;
+    width: 100%;
+}
+
+.size-button {
+    width: 112px;
+    height: 46px;
+    background-color: black;
+    color: white;
+    font-size: 26px;
+}
+
+.button-even {
+    text-align: center;
+    padding-top: 205px;
+}
+
+.p-align {
+    text-align: center;
+    padding-top: 46px;
+}
+
+.pre-text {
+    font-size: 20px;
+}
+
+.img-size {
+    height: 235px;
+    width: 354px;
+}
+
+.h-2-font {
+    text-align: center;
+}
+
+.h-3-font {
+    text-align: center;
+}
+
+hr:not([size]).hr-fon {
+    width: 119px;
+    height: 8px;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}
+
+.hr-width {
+    width: 280px;
+}
+
+.para-padd-ing {
+    padding: 10px;
+}
+
+.pa-ra-even {
+    margin-top: 20px !important;
+}
+
+.siz-e-ing {
+    margin-left: 20px;
+    font-size: 23px;
+}
+
+.list-styl {
+    list-style: none;
+}
+
+.h-2-con {
+    text-align: center;
+    padding-top: 37px;
+}
+
+.bar-color {
+    color: dimgray;
+}
+
+.brg-color2 {
+    background-color: #3BACB6;
+    color: white;
+}
+
+.para {
+    text-align: center;
+}
+
+.on-s-pace {
+    font-size: 42px;
+    margin-top: 33px;
+    margin-left: 34px;
+}
+
+.ic-on-s-pace {
+    background: black;
+    color: white;
+    padding: 20px;
+    border-radius: 50px;
+    font-size: 30px;
+}
+
+.fon-t-sz {
+    background: black;
+    color: white;
+    padding: 20px;
+    border-radius: 50px;
+    margin-left: 46px;
+}
+
+.h-4-spa {
+    margin-top: 35px;
+}
+
+.hr-3-sp {
+    width: 225px;
+}
+
+.fon-t-siz {
+    font-size: 42px;
+    margin-top: 30px;
+}
+
+.a4-hr-sp {
+    margin-top: 38px;
+}
+
+.d-iv-env {
+    background: black;
+    color: white;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.search-b-a-r {
+    text-align: center;
+}
+
+.sear-ch-buto {
+    font-size: 17px;
+}
+
+.d-iv-envlop {
+    font-size: 42px;
+    margin-top: 31px;
+}
+
+.h4-co-nt {
+    text-align: center;
+}
+
+.touch-con {
+    margin-top: 29px;
+}
+
+.list-co-n-t {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 28px;
+}
+
+.bg-co-lo-r {
+    background-color: darkgrey;
+}
+
+.e-ven-i {
+    margin-left: 3px;
+}
+
+.e-ven {
+    font-size: 23px;
+    background: black;
+    color: white;
+    padding: 10px;
+}

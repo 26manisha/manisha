@@ -1,0 +1,44 @@
+@media only screen and (max-width:1024px) {
+    .img-size {
+        width: 294px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .img-size {
+        width: 214px;
+    }
+    .sear-ch-buto {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    .flex3 {
+        display: block;
+    }
+    .img-size {
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    .flex5 {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:375px) {
+    .img-size {
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .list-co-n-t {
+        margin-right: 65px;
+    }
+    .img-size {
+        width: 295px;
+    }
+}
